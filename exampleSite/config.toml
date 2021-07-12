@@ -1,5 +1,5 @@
 baseurl = "http://examplesite.com/"
-disableLanguages = ["fr"]
+disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
